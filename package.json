@@ -1,0 +1,32 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Full stack developer portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "full",
+    "stack",
+    "developer",
+    "html",
+    "web",
+    "css",
+    "web",
+    "developer",
+    "javascript",
+    "remote",
+    "dev",
+    "babalola",
+    "daniel"
+  ],
+  "author": "babalola opeyemi",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "bootstrap": "^4.6.0",
+    "owl.carousel": "^2.3.4",
+    "saas": "^1.0.0"
+  }
+}
